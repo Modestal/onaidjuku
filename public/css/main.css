@@ -1,0 +1,36 @@
+main {
+    width: 100%;
+    height: auto;
+}
+#hero {
+    background: url('../images/refinery-3613522_1920.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    color: #ededed;
+}
+.jumbotron {
+    height: 100%;
+    background-color: #000;
+    opacity: .7;
+}
+#hero .display-4 {
+    font-size: 1.3rem;
+}
+#hero h3 {
+    border-bottom: 3px solid #ccc;
+    display: inline-block;
+    color: #2305f9;
+}
+#mid {
+    background: #eee;
+    min-height: 200px;
+    padding-top: 50px;
+}
+.petrol-tools {
+    text-align: center;
+}
+   

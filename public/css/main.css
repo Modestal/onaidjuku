@@ -12,6 +12,9 @@ main {
     overflow: hidden;
     color: #ededed;
 }
+#banner {
+    border-radius: 0;
+}
 .jumbotron {
     height: 100%;
     background: rgba(0,0,0,0.7);
